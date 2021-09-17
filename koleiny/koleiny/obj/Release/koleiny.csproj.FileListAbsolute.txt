@@ -1,0 +1,13 @@
+C:\Users\sglowacki\git\transversal_profile_tester\koleiny\koleiny\bin\Release\koleiny.exe.config
+C:\Users\sglowacki\git\transversal_profile_tester\koleiny\koleiny\bin\Release\koleiny.exe
+C:\Users\sglowacki\git\transversal_profile_tester\koleiny\koleiny\bin\Release\koleiny.pdb
+C:\Users\sglowacki\git\transversal_profile_tester\koleiny\koleiny\bin\Release\GeoJSON.Net.dll
+C:\Users\sglowacki\git\transversal_profile_tester\koleiny\koleiny\bin\Release\Newtonsoft.Json.dll
+C:\Users\sglowacki\git\transversal_profile_tester\koleiny\koleiny\bin\Release\Newtonsoft.Json.xml
+C:\Users\sglowacki\git\transversal_profile_tester\koleiny\koleiny\obj\Release\koleiny.MainForm.resources
+C:\Users\sglowacki\git\transversal_profile_tester\koleiny\koleiny\obj\Release\koleiny.Properties.Resources.resources
+C:\Users\sglowacki\git\transversal_profile_tester\koleiny\koleiny\obj\Release\koleiny.csproj.GenerateResource.cache
+C:\Users\sglowacki\git\transversal_profile_tester\koleiny\koleiny\obj\Release\koleiny.csproj.CoreCompileInputs.cache
+C:\Users\sglowacki\git\transversal_profile_tester\koleiny\koleiny\obj\Release\koleiny.csproj.CopyComplete
+C:\Users\sglowacki\git\transversal_profile_tester\koleiny\koleiny\obj\Release\koleiny.exe
+C:\Users\sglowacki\git\transversal_profile_tester\koleiny\koleiny\obj\Release\koleiny.pdb

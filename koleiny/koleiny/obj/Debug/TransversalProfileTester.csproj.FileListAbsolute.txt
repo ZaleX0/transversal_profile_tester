@@ -1,0 +1,14 @@
+C:\Users\sglowacki\source\repos\koleiny\koleiny\bin\Debug\koleiny.exe.config
+C:\Users\sglowacki\source\repos\koleiny\koleiny\bin\Debug\koleiny.exe
+C:\Users\sglowacki\source\repos\koleiny\koleiny\bin\Debug\koleiny.pdb
+C:\Users\sglowacki\source\repos\koleiny\koleiny\bin\Debug\GeoJSON.Net.dll
+C:\Users\sglowacki\source\repos\koleiny\koleiny\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sglowacki\source\repos\koleiny\koleiny\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sglowacki\source\repos\koleiny\koleiny\obj\Debug\TransversalProfileTester.csproj.AssemblyReference.cache
+C:\Users\sglowacki\source\repos\koleiny\koleiny\obj\Debug\koleiny.MainForm.resources
+C:\Users\sglowacki\source\repos\koleiny\koleiny\obj\Debug\koleiny.Properties.Resources.resources
+C:\Users\sglowacki\source\repos\koleiny\koleiny\obj\Debug\TransversalProfileTester.csproj.GenerateResource.cache
+C:\Users\sglowacki\source\repos\koleiny\koleiny\obj\Debug\TransversalProfileTester.csproj.CoreCompileInputs.cache
+C:\Users\sglowacki\source\repos\koleiny\koleiny\obj\Debug\TransversalProfileTester.csproj.CopyComplete
+C:\Users\sglowacki\source\repos\koleiny\koleiny\obj\Debug\koleiny.exe
+C:\Users\sglowacki\source\repos\koleiny\koleiny\obj\Debug\koleiny.pdb
